@@ -8,3 +8,4 @@
 ## Links 
 
 * [basic book](https://www.openbookproject.net/books/bpp4awd/)
+* [Automate the boring stuff](https://automatetheboringstuff.com/)
